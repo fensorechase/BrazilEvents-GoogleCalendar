@@ -1,5 +1,5 @@
 # BrazilEvents-GoogleCalendar
-Python script to write events to your Google Calendar using GCal API. Takes input event URL, then pareses with BeautifulSoup.
+Python script to write events to your Google Calendar using GCal API. Takes input event URL, then parses with BeautifulSoup.
 
 
 ## Installation
