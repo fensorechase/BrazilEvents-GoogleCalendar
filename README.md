@@ -11,6 +11,7 @@ pip install BrazilEvents
 ```
 
 ## Usage
+ First in GoogleAPI create a new project, and generate credentials. While generating credentials, be sure to create OAuth2.0 client ID, and store it in client_secret.json file in the same directory as this project. Here, we ensure a user gives consent before giving access to their Google Calendar to read/write.
 
 ```python
 import BrazilEvents
