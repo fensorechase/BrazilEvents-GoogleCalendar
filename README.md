@@ -3,6 +3,11 @@ Python script to write events to your Google Calendar using GCal API. Takes inpu
 
 
 ## Installation
+First, clone the repository
+```bash
+git clone __insert http or ssh here__
+```
+
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install BrazilEvents.
 
